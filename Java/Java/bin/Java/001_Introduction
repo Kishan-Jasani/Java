@@ -1,0 +1,34 @@
+Types of programming languages:-
+	 ---> OOP (Object oriented programming)
+	 ---> POP (Procedural Oriented Programming)*/
+	
+	
+-- Java is a Purely object oriented programming language developed by Sun MicroSystems of USA in 1991.
+-- It was originally called as Oak by James Gosling, One of the founder of Java
+-- Simple, Portable, Reliable
+-- Java is Compiled as well as Interpreted language.	
+	
+--> How Java Works?
+		Java is compiled into the byte code and then it is interpreted to Machine code.
+		
+		Source Code ----------------------> Byte code -----------------------------> Machine Code
+						 Compiled							   Interpreted
+						 
+						 
+						 
+--> Java Installation:
+		-- Install Java JDK
+		-- Install Java supported IDE (e.g.Eclipse)
+		
+		
+--> JDK (Java Developement Kit):
+		-- Collection of tools used for developing and running Java Programs
+		
+		
+--> JRE (Java Runtime Environment):
+		-- Helps in executing programs developed in Java
+		
+		
+--> Naming Convention in Java:
+		-- Classes 		- PascalConvention 		(First letter Capital)
+		-- Functions 	- camelCaseConvention 	(First letter Small)

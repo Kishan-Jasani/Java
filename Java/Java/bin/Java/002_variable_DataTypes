@@ -1,0 +1,28 @@
+Variable :- is a container that stores value. Value can be changed during the execution of the program.
+	e.g. -- int number = 8;
+	(where int is DataType, number is variable name, 8 is value of variable)
+
+Variable Name:-
+	-- Should not start with a digit
+	-- is Case sensitive
+	-- Should not be a keyword(reserved words)
+	-- white space not allowed
+	-- Can contain alphabets, $(dollar), _(underscore) and digits
+	
+Variable must be declared before use.
+
+(1 byte = 8 bit)
+--> DataTypes
+	(1)Primitive 
+		--byte   -- (-128 to 127)  			 --  Takes 1 byte  --   Default value is 0
+		--short	 -- (-(2^15) to (2^15 - 1))	 --  Takes 2 byte  --   Default value is 0
+		--int    -- (-(2^31) to (2^31 - 1))  --  Takes 4 byte  --   Default value is 0
+		--float	 --							 --	 Takes 4 byte  --   Default value is 0.0f
+		--long	 -- (-(2^63) to (2^63 - 1))  --  Takes 8 byte  --   Default value is 0
+		--double -- 						 --	 Takes 8 byte  --   Default value is 0.0d
+		--char   -- (0 to 65535(2^16 - 1))   --  Takes 2 byte  --   Default value is \u0000
+		--bool   -- True or False            -- depends on JVM --   Default value is False
+		
+		
+	(2) Non-Premitive
+		--

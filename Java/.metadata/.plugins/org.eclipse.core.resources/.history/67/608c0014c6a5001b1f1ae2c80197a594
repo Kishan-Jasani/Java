@@ -1,0 +1,17 @@
+package Java;
+
+class Mobile{
+	String name;
+	String color;
+	int price;
+	
+	public static void printDetails() {
+		System.out.println("Your Mobile is "+name+" , color is "+color+" and price is "+price);
+	}
+}
+public class AL_OOP {	
+	public static void main(String[] args) {
+		
+	}
+}
+

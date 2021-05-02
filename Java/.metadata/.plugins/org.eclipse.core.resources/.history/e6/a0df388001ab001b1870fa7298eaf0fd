@@ -1,0 +1,10 @@
+package Java;
+//Date in Java is stored as a long number
+//Long number holds the number of mili seconds passed since 1 January 1970. 
+public class BJ_Date_and_Time {
+	
+public static void main(String[] args){
+	
+	}
+}
+

@@ -1,0 +1,16 @@
+package Java;
+
+class New{
+	int x;
+	
+	public New(int x){
+		this.x = x;
+	}
+}
+public class AP_this_and_super {	
+	
+	public static void main(String[] args) {
+		New nw =new New(5);
+	}
+}
+

@@ -1,0 +1,19 @@
+package Java;
+//Access Modifiers determines whether the other classes can use particular property or not
+/*
+  
+Modifier        class 				Package					subclass     				world
+---------------------------------------------------------------------------------------------------
+public				Y					Y						Y						Y
+protected		    Y					Y						Y						N
+default(no)			Y					Y						N						N
+private			    Y					N						N						N
+
+*/
+public class AY_AccessModifiers {
+
+public static void main(String[] args) {
+		
+	}
+}
+

@@ -1,0 +1,10 @@
+package Java;
+//Annotations used to provide extra informations(metadata) to class/method
+
+public class BL_Annotations_in_Java {
+	
+public static void main(String[] args){
+	
+}
+}
+

@@ -1,0 +1,5 @@
+--> Strings is a sequence of character.
+
+--> String is a Class, But we can use it as a DataType.
+	String name = "abcde";
+	

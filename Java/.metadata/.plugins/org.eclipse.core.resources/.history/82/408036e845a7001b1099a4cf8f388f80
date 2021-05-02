@@ -1,0 +1,21 @@
+package Java;
+
+class One{
+	public void name() {
+		System.out.println("My name is Java in Class One");
+	}
+}
+
+class Two extends One{
+	@Override
+	public void name() {
+		System.out.println("My name is Java in Class Two");
+	}
+}
+
+public class AR_DynamicMethod_Dispatch {
+
+	public static void main(String[] args) {
+		
+	}
+}

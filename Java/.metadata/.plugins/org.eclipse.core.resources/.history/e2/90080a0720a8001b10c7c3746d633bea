@@ -1,0 +1,8 @@
+package Java;
+
+public class AV_InterfacesExample_DefaultMethods {
+
+public static void main(String[] args) {
+	
+}
+}

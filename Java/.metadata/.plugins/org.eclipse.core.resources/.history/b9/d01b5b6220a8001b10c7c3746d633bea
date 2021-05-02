@@ -1,0 +1,25 @@
+package Java;
+
+interface Camera{
+	void takeSnap();
+}
+
+interface Wifi{
+	String[] getNetworks();
+	void connectToNetworks(String Network);
+}
+
+class MyCellPhone implements Camera{
+	@Override
+	public void takeSnap() {
+		
+	}
+	
+}
+
+public class AV_InterfacesExample_DefaultMethods {
+
+public static void main(String[] args) {
+	
+}
+}

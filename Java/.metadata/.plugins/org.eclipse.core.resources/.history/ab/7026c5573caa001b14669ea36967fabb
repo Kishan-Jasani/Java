@@ -1,0 +1,15 @@
+package Java;
+
+class MaruThread extends Thread{
+	public void run() {
+		System.out.println("Mari Thread");
+	}
+}
+
+public class BB_Thread_Priorities {
+
+public static void main(String[] args) {
+		
+	}
+}
+

@@ -1,0 +1,11 @@
+package Java;
+
+public class AC_Strings {
+	public static void main(String[] args) {
+		System.out.println("Kishan");       //Cursor will go in new line after print
+		System.out.print("Kishan ");			//Cursor will remain a same line
+		int a =6f;
+		float b =5.6f;
+		System.out.printf("Value of a is %f and value of b is %f", a,b);
+	}
+}

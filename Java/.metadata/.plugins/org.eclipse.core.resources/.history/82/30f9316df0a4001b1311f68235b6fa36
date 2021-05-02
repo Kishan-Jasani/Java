@@ -1,0 +1,29 @@
+package Java;
+
+public class AC_Strings {
+	public static void main(String[] args) {
+		//String Methods
+		String name = "Kishan";
+		String city = "       Surat       ";
+		System.out.println(name.length());
+		System.out.println(name.toLowerCase());
+		System.out.println(name.toUpperCase());
+		System.out.println(city);    //Remove spaces from start and end
+				
+				
+				
+		System.out.println("New Line");       //Cursor will go in new line after print
+		
+		System.out.print("Same Line ");			//Cursor will remain a same line
+		
+		int a =6;
+		float b =5.6f;
+		String c = "Heyy";
+		System.out.printf("Value of a is %d and value of b is %f and value of c is %s", a,b,c);
+		
+		System.out.format("Value of a is %d and value of b is %f and value of c is %s", a,b,c);
+			
+		
+	
+	}
+}

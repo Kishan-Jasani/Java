@@ -1,0 +1,9 @@
+package Java;
+//Access Modifiers determines whether the other classes can use particular property or not
+public class AY_AccessModifiers {
+
+public static void main(String[] args) {
+		
+	}
+}
+

@@ -1,0 +1,11 @@
+package Java;
+//Polymorphism in Java is a concept by which we can perform a single action in different ways. ... 
+//So polymorphism means many forms
+
+public class AX_Polymorphism {
+
+public static void main(String[] args) {
+	
+	}
+}
+

@@ -1,0 +1,14 @@
+----> Abstraction:-
+-- Through the process of abstraction in Java, a programmer can hide all the irrelevant data/process of an application in order to reduce complexity and increase efficiency.
+-- Hiding internal details (Shows only essential information)
+	e.g. 
+	Abstraction is the process of hiding the real implementation of an application from the user and emphasizing only on usage of it. 
+	For example, consider you have bought a new electronic gadget. 
+	Along with the gadget, you get a user guide, instructing how to use the application, but this user guide has no info regarding the internal working of the gadget.
+	Another example is, when you use TV remote, you do not know how pressing a key in the remote changes the channel internally on the TV. 
+	You just know that pressing volume key will increase the volume.
+
+	
+----> Encapsulation:-
+-- Encapsulation means that the sensitive data can be hidden from the user.
+-- Encapsulated method can not be accessible outside the class.

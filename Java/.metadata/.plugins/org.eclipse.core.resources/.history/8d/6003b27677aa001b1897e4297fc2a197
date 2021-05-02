@@ -1,0 +1,13 @@
+package Java;
+
+import java.util.ArrayDeque;
+
+public class BH_Arraydeque {
+	
+public static void main(String[] args){
+	ArrayDeque a1=new ArrayDeque();
+	a1.add(5);
+	a1.add(6);
+	}
+}
+

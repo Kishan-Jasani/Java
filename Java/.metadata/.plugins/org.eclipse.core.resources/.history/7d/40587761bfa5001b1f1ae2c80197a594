@@ -1,0 +1,11 @@
+package Java;
+
+public class AL_OOP {
+	//OOP tries to map code instructions with real world entity and make code short and easy.
+	//Solving a problem by creating Object is called OOP.
+	
+	public static void main(String[] args) {
+		
+	}
+}
+

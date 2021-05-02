@@ -1,0 +1,31 @@
+----> Abstraction:-
+-- Through the process of abstraction in Java, a programmer can hide all the irrelevant data/process of an application in order to reduce complexity and increase efficiency.
+-- Hiding internal details (Shows only essential information)
+	e.g. 
+	Abstraction is the process of hiding the real implementation of an application from the user and emphasizing only on usage of it. 
+	For example, consider you have bought a new electronic gadget. 
+	Along with the gadget, you get a user guide, instructing how to use the application, but this user guide has no info regarding the internal working of the gadget.
+	Another example is, when you use TV remote, you do not know how pressing a key in the remote changes the channel internally on the TV. 
+	You just know that pressing volume key will increase the volume.
+
+	
+----> Encapsulation:-
+-- Encapsulation in Java is a process of wrapping code and data together into a single unit, for example, a capsule which is mixed of several medicines
+-- Encapsulation means that the sensitive data can be hidden from the user.
+-- Encapsulated method can not be accessible outside the class without getter setter.
+
+
+----> Inheritance(is-A):-
+-- Inheritance in Java is a mechanism in which one object acquires all the properties and behaviors of a parent object.
+-- Smart Phone is a Phone
+-- feature Phone is a Phone
+
+
+----> Polymorphism:-
+-- One entity many forms
+-- Sometimes a child may not want to use what it has inherited from the parent. 
+-- The same holds true for OOP as well. 
+-- If the child class does not want to use a method inherited from the parent class then it may create its own method with the same name.
+-- When the child has a method with the same name as that of the parent, it is said to override the parent’s method. 
+-- This is called as Method Overriding. 
+-- Method overriding is also called as Polymorphism.

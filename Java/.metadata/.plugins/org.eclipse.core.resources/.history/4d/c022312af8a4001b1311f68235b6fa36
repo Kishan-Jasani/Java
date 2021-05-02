@@ -1,0 +1,10 @@
+package Java;
+
+public class AE_SwitchCase {
+	public static void main(String[] args) {
+		int age = 45;
+		switch age{
+		
+		}
+	}
+}

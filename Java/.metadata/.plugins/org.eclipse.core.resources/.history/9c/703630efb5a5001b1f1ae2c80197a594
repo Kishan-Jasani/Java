@@ -1,0 +1,23 @@
+package Java;
+
+public class AI_MethodOverloading {
+	//A static method belongs to the class rather than the object of a class. 
+	//A static method can be invoked without the need for creating an instance of a class. 
+	//A static method can access static data member and can change the value of it. 
+	public static int sum(int p, int q) {
+		return p+q;
+	}
+	
+	public static int sum(int p, int q, int r) {
+		return p+q+r;
+	}
+	
+	public static int sum(int p, int q, int r, int s) {
+		return p+q+r+s;
+	}
+	
+	public static void main(String[] args) {
+		
+ 	}
+}
+

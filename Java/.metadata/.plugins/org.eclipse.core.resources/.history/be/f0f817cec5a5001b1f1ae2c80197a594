@@ -1,0 +1,11 @@
+package Java;
+
+public class AL_OOP {
+	String name;
+	String color;
+	int price;
+	public static void main(String[] args) {
+		
+	}
+}
+

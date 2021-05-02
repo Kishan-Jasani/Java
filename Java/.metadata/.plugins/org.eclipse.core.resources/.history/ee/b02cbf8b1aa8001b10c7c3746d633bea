@@ -1,0 +1,9 @@
+package Java;
+//Interface is a point where two systems met and interact
+
+public class AT_Interfaces {
+
+	public static void main(String[] args) {
+		
+	}
+}

@@ -1,0 +1,17 @@
+package Java;
+
+interface Int1{
+	void disp();
+}
+
+public class BN_Lambda_expression {
+	
+public static void main(String[] args){
+	//Using Lambda Function
+	Int1 obj = ()->{
+		System.out.println("This is disp method of Int1 Interface using Lambda");
+		};
+	obj.disp();
+}
+}
+

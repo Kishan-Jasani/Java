@@ -1,0 +1,28 @@
+--> Interpreter 
+---- translates one statement at a time into machine code.
+---- interpreter needed everytime
+---- Partial execution till error occurs
+---- easy to use
+
+
+
+--> Compiler 
+---- scans entire program and translates whole of it into machine code
+---- compiler is not required once compiled
+---- no execution if error occurs
+---- not as easy as compiler
+
+
+
+----> Java is a hybrid(interpreter + compiler) language
+
+----> How Java Works?
+		Java is compiled into the byte code(class file) and then it is interpreted to Machine code.
+		
+		Source Code ----------------------> Byte code -----------------------------> Machine Code
+						 Compiled							   Interpreted
+						 
+						 
+----> JVM can be used to interpreted byte code
+----> This byte code can be used in everywhere(win/Linux/Mac)
+----> Hence Java is platform independent

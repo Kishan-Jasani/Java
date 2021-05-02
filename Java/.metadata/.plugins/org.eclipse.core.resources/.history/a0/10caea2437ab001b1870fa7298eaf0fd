@@ -1,0 +1,33 @@
+package Java;
+//A lambda expression is a short block of code which takes in parameters and returns a value. 
+//Lambda expressions are similar to methods, 
+//but they do not need a name and they can be implemented right in the body of a method.
+
+interface Int {
+	void meth1();
+	void meth2();
+}
+
+class AnonyDemo implements Int{
+	void display() {
+		System.out.println("Display");
+	}
+
+	@Override
+	public void meth1() {
+		System.out.println("meth1");
+	}
+	
+	@Override
+	public void meth2() {
+		System.out.println("meth2");
+	}
+}
+
+public class BM_Lambda_Expression {
+	
+public static void main(String[] args){
+	
+}
+}
+

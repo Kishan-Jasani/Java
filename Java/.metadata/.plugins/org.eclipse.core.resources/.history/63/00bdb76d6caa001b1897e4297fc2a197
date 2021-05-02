@@ -1,0 +1,37 @@
+package Java;
+
+class NegativeRadiusException extends Exception{
+	public String getMessage() {
+		return "radius can not be Negative";
+	}
+	
+	public String toString() {
+		return "Negative Radius not Possible";
+	}
+}
+
+public class BE_Throw_vs_Throws {
+	
+	public static int divide(int a, int b) throws ArithmeticException{
+		return a/b;
+	}
+	
+	public static double area(int r){
+		if(r<0) {
+			throw new NegativeRadiusException();
+		}
+		double res = Math.PI*r*r;
+		return res;
+	}
+	
+public static void main(String[] args) {
+		try {
+			int z = divide(5,0);
+			System.out.println(z);
+		} catch (Exception e) {
+			System.out.println("Exception");
+		}
+		
+	}
+}
+

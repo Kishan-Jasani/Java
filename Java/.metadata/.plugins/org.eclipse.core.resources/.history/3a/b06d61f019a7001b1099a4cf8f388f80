@@ -1,0 +1,26 @@
+package Java;
+
+
+class Parent{
+	private int x;
+
+	public int getX() {
+		return x;
+	}
+
+	public void setX(int x) {
+		this.x = x;
+	}
+
+	public Parent(int x) {
+		this.x = x;
+	}
+		
+}
+public class AO_Inheritance_in_Java {	
+	//Inheritance is used to borrow properties & methods from an existing class
+	public static void main(String[] args) {
+		
+	}
+}
+

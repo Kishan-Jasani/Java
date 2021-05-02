@@ -1,0 +1,13 @@
+package Java;
+
+class One{
+	public void name() {
+		System.out.println("My name is Java");
+	}
+}
+public class AR_DynamicMethod_Dispatch {
+
+	public static void main(String[] args) {
+		
+	}
+}

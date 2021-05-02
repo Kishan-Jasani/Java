@@ -1,0 +1,51 @@
+package Java;
+
+
+class Parent{
+	private int x;
+	
+	public Parent(int x) {
+		System.out.println("You are in Parent constructor with 1 arg");
+		this.x = x;
+	}
+	
+	public Parent() {
+		System.out.println("You are in Parent constructor");
+	}
+	
+	public int getX() {
+		return x;
+	}
+
+	public void setX(int x) {
+		this.x = x;
+	}
+}
+
+class Child extends Parent{
+	private int y;
+	
+	public Child(int x) {
+		super(x);
+		System.out.println("You are in Child Constructor");	
+	}
+	
+	public int getY() {
+		return y;
+	}
+	
+	public void setY(int y) {
+		this.y = y;
+	}
+	
+	
+}
+public class AO_Inheritance_in_Java {	
+	//Inheritance is used to borrow properties & methods from an existing class
+	public static void main(String[] args) {
+		Parent pr = new Parent(5);
+		Child ch = new Child(6);
+		System.out.println(ch.getX());
+	}
+}
+

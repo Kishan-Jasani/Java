@@ -1,0 +1,8 @@
+package Java;
+
+public class AR_DynamicMethod_Dispatch {
+
+	public static void main(String[] args) {
+		
+	}
+}

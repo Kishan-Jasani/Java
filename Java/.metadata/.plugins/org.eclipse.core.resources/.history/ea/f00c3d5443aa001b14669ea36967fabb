@@ -1,0 +1,13 @@
+package Java;
+//--> Three types of errors
+//(1) Syntex errors               -   When compiler finds something wrong
+//(2) Logical errors              -   when program compiles but does something wrong
+//(3) Runtime errors(Exceptions)  -   
+
+public class BC_Exception_Handling {
+
+public static void main(String[] args) {
+				
+	}
+}
+

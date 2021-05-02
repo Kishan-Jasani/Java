@@ -1,0 +1,24 @@
+package Java;
+
+//abstract Method must be there in all Child classes
+
+abstract class Parent1{
+	public Parent1() {
+		System.out.println("Parent1 Constructor");
+	}
+	public void sayHello() {
+		System.out.println("Hello");
+	}
+	abstract public void greet();
+}
+
+class Child1 extends Parent1{
+	
+}
+
+public class AS_AbstractClass_AbstractMethod {
+	//Abstract means existing in through or as an idea without  concrete existance.
+	public static void main(String[] args) {
+		
+	}
+}

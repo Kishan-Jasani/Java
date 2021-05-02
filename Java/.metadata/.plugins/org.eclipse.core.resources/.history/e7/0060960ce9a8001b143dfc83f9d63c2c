@@ -1,0 +1,9 @@
+package Java;
+
+public class AY_AccessModifiers {
+
+public static void main(String[] args) {
+		
+	}
+}
+

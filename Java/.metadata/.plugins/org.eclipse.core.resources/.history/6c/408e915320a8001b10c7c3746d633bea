@@ -1,0 +1,16 @@
+package Java;
+
+interface Camera{
+	void takeSnap();
+}
+
+class MyCellPhone implements Camera{
+	
+}
+
+public class AV_InterfacesExample_DefaultMethods {
+
+public static void main(String[] args) {
+	
+}
+}

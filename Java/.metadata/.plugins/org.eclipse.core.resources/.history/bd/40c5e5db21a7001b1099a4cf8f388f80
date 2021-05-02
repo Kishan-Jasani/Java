@@ -1,0 +1,36 @@
+package Java;
+
+class A{
+	public int method1(int a) {
+		System.out.println(a);
+	}
+	
+	public void method2() {
+		System.out.println("I am method2 of A");
+	}
+}
+
+class B extends A{
+	public int method1(int a) {
+		return a;
+	}
+	
+	public void method2() {
+		System.out.println("I am method2 of B");
+	}
+	
+	public void method3() {
+		System.out.println("I am method3 of B");
+	}
+	
+	
+}
+public class AQ_Method_Overriding {
+
+	public static void main(String[] args) {
+		A a =new A();
+		B b =new B();
+		a.method1(5);
+		a.method2();
+	}
+}

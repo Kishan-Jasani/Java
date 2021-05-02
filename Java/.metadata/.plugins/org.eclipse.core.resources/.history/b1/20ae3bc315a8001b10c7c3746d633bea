@@ -1,0 +1,8 @@
+package Java;
+
+public class AS_AbstractClass_AbstractMethod {
+
+	public static void main(String[] args) {
+		
+	}
+}

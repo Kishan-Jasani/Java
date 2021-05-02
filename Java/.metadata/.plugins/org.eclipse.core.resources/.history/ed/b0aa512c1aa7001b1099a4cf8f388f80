@@ -1,0 +1,30 @@
+package Java;
+
+
+class Parent{
+	private int x;
+	
+	public Parent(int x) {
+		this.x = x;
+	}
+	
+	public int getX() {
+		return x;
+	}
+
+	public void setX(int x) {
+		System.out.println("You are in Parent constructor");
+		this.x = x;
+	}
+
+	
+		
+}
+public class AO_Inheritance_in_Java {	
+	//Inheritance is used to borrow properties & methods from an existing class
+	public static void main(String[] args) {
+		Parent pr = new Parent(5);
+		
+	}
+}
+

@@ -1,0 +1,19 @@
+package Java;
+
+interface Parent{
+	void meth1();
+	void meth2();
+}
+
+interface Child extends Parent{
+	void meth3();
+	void meth4();
+}
+
+public class AW_Inheritance_in_Interface {
+
+public static void main(String[] args) {
+	
+	}
+}
+

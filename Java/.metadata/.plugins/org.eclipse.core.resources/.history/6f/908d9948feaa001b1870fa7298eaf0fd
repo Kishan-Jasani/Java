@@ -1,0 +1,10 @@
+package Java;
+//Hashing Technique is used to convert a Key-value pair to Indices
+
+public class BI_Hashing_in_Java {
+	
+public static void main(String[] args){
+	
+	}
+}
+

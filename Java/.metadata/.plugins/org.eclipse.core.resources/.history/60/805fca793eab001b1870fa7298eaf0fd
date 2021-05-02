@@ -1,0 +1,11 @@
+package Java;
+
+import java.io.File;
+
+public class BP_FileHandling {
+	
+public static void main(String[] args){
+	File myFile = new File("Kishan.txt");
+}
+}
+

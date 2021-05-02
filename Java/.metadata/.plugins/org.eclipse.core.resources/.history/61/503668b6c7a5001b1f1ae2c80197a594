@@ -1,0 +1,13 @@
+package Java;
+
+public class AM_AccessModifier_GetterSetter {	
+	//Access Modifier:-
+	//Private
+	//Public
+	//Default
+	//Protected
+	public static void main(String[] args) {
+		
+	}
+}
+

@@ -1,0 +1,25 @@
+package Java;
+
+class MyThread2 implements Runnable{
+
+	@Override
+	public void run() {
+		System.out.println("I am a thread2, not a threat");
+	}	
+}
+
+class MyThread3 implements Runnable{
+
+	@Override
+	public void run() {
+		System.out.println("I am a thread3, not a threat");
+	}
+}
+
+public class BA_MultiThreading_with_Runnable_Interface {
+
+public static void main(String[] args) {
+		
+	}
+}
+

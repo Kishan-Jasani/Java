@@ -1,0 +1,26 @@
+package Java;
+//Interface is a point where two systems met and interact
+// In Java, interface is a group of related methods with empty body
+
+interface Bicycle{
+	void applyBreak(int decrement);
+	void speedUp(int increment);
+}
+
+class AvounBicycle implements Bicycle{
+	@Override
+	public void applyBreak(int decrement) {
+				
+	}
+	@Override
+	public void speedUp(int increment) {
+				
+	}
+}
+
+public class AT_Interfaces {
+
+	public static void main(String[] args) {
+		
+	}
+}

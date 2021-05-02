@@ -1,0 +1,36 @@
+package Java;
+
+public class AE_SwitchCase {
+	public static void main(String[] args) {
+		int age = 45;
+		switch(age){
+			case 18:
+				System.out.println("You are now eligible for voting");
+				break;  // break is mandatory, otherwise it will print everything after match condition
+			case 45:
+				System.out.println("You are now eligibe for vaccination");
+				break;
+			case 60:
+				System.out.println("Don't go out");
+				break;
+			default:
+				System.out.println("Enjoy");
+		}
+		
+		String city = "Surat";
+		switch(city){
+			case 18:
+				System.out.println("You are now eligible for voting");
+				break;  // break is mandatory, otherwise it will print everything after match condition
+			case 45:
+				System.out.println("You are now eligibe for vaccination");
+				break;
+			case 60:
+				System.out.println("Don't go out");
+				break;
+			default:
+				System.out.println("Enjoy");
+		}
+	}
+}
+

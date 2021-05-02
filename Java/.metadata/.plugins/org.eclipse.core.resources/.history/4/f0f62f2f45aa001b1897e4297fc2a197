@@ -1,0 +1,22 @@
+package Java;
+
+//--> Three types of errors
+//(1) Syntex errors               -   When compiler finds something wrong
+//(2) Logical errors              -   when program compiles but does something wrong
+//(3) Runtime errors(Exceptions)  -   
+
+//Two types of exceptions in Java 
+//(1)Checked   - Compile time exceptions
+//(2)Unchecked - Runtime exceptions
+
+public class BC_Exception_Handling {
+
+public static void main(String[] args) {
+		try {
+			System.out.println("1000 divided by a is: "+ 1000/0);
+		} catch (Exception e) {
+			System.out.println(e);
+		}		
+	}
+}
+

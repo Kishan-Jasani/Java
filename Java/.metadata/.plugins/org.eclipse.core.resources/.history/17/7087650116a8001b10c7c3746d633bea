@@ -1,0 +1,9 @@
+package Java;
+
+public class AS_AbstractClass_AbstractMethod {
+	//Abstract means existing in through or as an idea without  concrete existance.
+	
+	public static void main(String[] args) {
+		
+	}
+}

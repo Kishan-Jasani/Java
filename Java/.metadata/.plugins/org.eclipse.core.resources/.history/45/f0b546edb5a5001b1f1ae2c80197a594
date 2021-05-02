@@ -1,0 +1,21 @@
+package Java;
+
+public class AI_MethodOverloading {
+	//Method is a function written inside class.
+	public static int sum(int p, int q) {
+		return p+q;
+	}
+	
+	public static int sum(int p, int q, int r) {
+		return p+q+r;
+	}
+	
+	public static int sum(int p, int q, int r, int s) {
+		return p+q+r+s;
+	}
+	
+	public static void main(String[] args) {
+		
+ 	}
+}
+

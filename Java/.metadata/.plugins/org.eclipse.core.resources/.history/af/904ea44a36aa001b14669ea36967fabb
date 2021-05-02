@@ -1,0 +1,9 @@
+package Java;
+
+public class BA_MultiThreading_with_Runnable_Interface {
+
+public static void main(String[] args) {
+		
+	}
+}
+

@@ -1,0 +1,16 @@
+package Java;
+
+public class AJ_VarArgs {
+	public static int sum(int ...arr) {
+		// Available as int[] arr
+		int s=0;
+		for (int i : arr) {
+			s+=i;
+		}
+		return s;
+	}
+	public static void main(String[] args) {
+		 
+	}
+}
+

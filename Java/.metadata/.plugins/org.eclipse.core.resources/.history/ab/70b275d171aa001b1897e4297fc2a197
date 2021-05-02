@@ -1,0 +1,24 @@
+package Java;
+// A collection is a group of object
+// Collection in Java is available as form of classes and Interfaces
+
+//Why do we need collection?
+// --> We need collection for efficient storage and better manipulation
+// --> resize the array
+// --> Insert and delete element
+// --> apply certain operations
+
+
+//ArrayList --> For variable size collection
+//Set       --> for distinct value set
+//stack     --> LIFO data structures
+//Hashmap   --> For Key-Value pair
+
+
+public class BF_Collection_Framework {
+	
+public static void main(String[] args){
+		
+	}
+}
+

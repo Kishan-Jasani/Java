@@ -1,0 +1,10 @@
+package Java;
+import java.util.*;
+
+public class BG_Collection_LinkedList {
+	
+public static void main(String[] args){
+		
+	}
+}
+

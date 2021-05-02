@@ -1,0 +1,9 @@
+package Java;
+
+public class AO_Inheritance_in_Java {	
+	//Inheritance is used to borrow properties & methods from an existing class
+	public static void main(String[] args) {
+		
+	}
+}
+

@@ -1,0 +1,13 @@
+package Java;
+
+class MyThreads extends Thread{
+	
+}
+
+public class AZ_MultiThreading_with_Thread_class {
+
+public static void main(String[] args) {
+		
+	}
+}
+

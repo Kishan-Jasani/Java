@@ -1,0 +1,9 @@
+package Java;
+// A collection is a group of object
+public class BF_Collection_Framework {
+	
+public static void main(String[] args){
+		
+	}
+}
+

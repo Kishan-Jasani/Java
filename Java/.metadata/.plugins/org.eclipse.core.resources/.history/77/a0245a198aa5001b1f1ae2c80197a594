@@ -1,0 +1,20 @@
+package Java;
+
+public class AG_Arrays {
+	public static void main(String[] args) {
+		//Array is a collection of similar type of data.
+		int[] marks = new int[5];
+		marks[0]=60;
+		marks[1]=60;
+		marks[2]=60;
+		marks[3]=60;
+		marks[4]=60;
+//		marks[5]=60;  - Throws an error
+		System.out.println(marks[4]);
+		
+		String[] name = {"abc","pqr","xyz"};
+		name[3] = "frt";
+		System.out.println(name);
+ 	}
+}
+

@@ -1,0 +1,19 @@
+package Java;
+
+import java.util.Date;
+
+//Date in Java is stored as a long number
+//Long number holds the number of mili seconds passed since 1 January 1970. 
+//Java assumes that 1900 is the start year 
+public class BJ_Date_and_Time {
+	
+public static void main(String[] args){
+	System.out.println("Mili seconds passed after 1 January 1970 is "+System.currentTimeMillis());
+	System.out.println("Years passed after 1 January 1970 is "+System.currentTimeMillis()/1000/3600/24/365);
+	
+	Date d = new Date();
+	System.out.println(d);
+
+}
+}
+

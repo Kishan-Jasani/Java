@@ -1,0 +1,9 @@
+package Java;
+
+public class AM_AccessModifier_GetterSetter {	
+	
+	public static void main(String[] args) {
+		
+	}
+}
+

@@ -1,0 +1,14 @@
+package Java;
+//Annotations used to provide extra informations(metadata) to class/method
+
+//@Override  - to override something from parent class
+//
+
+
+public class BL_Annotations_in_Java {
+	
+public static void main(String[] args){
+	
+}
+}
+

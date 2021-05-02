@@ -1,0 +1,20 @@
+package Java;
+
+
+public class BE_Throw_vs_Throws {
+	
+	public static int divide(int a, int b) throws ArithmeticException{
+		return a/b;
+	}
+	
+public static void main(String[] args) {
+		try {
+			int z = divide(5,0);
+			System.out.println(z);
+		} catch (Exception e) {
+			// TODO: handle exception
+		}
+		
+	}
+}
+

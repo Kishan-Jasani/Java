@@ -1,0 +1,18 @@
+package Java;
+
+class Parent1{
+	public Parent1() {
+		System.out.println("Parent1 Constructor");
+	}
+	public void sayHello() {
+		System.out.println("Hello");
+	}
+	abstract public void greet();
+}
+
+public class AS_AbstractClass_AbstractMethod {
+	//Abstract means existing in through or as an idea without  concrete existance.
+	public static void main(String[] args) {
+		
+	}
+}

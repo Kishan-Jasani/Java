@@ -1,0 +1,10 @@
+package Java;
+//Multiprocessing and Multithreading both are used to achieve multi-tasking
+
+public class AZ_MultiThreading {
+
+public static void main(String[] args) {
+		
+	}
+}
+

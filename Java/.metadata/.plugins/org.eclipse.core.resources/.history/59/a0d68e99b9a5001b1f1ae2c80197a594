@@ -1,0 +1,9 @@
+package Java;
+
+public class AJ_VarArgs {
+	
+	public static void main(String[] args) {
+		
+	}
+}
+

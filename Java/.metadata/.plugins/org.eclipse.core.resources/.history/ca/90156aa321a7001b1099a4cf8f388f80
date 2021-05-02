@@ -1,0 +1,29 @@
+package Java;
+
+class A{
+	public int method1(int a) {
+		return a;
+	}
+	
+	public void method2() {
+		System.out.println("I am method2 od A");
+	}
+}
+
+class B extends A{
+	public int method1(int a) {
+		return a;
+	}
+	
+	public void method2() {
+		System.out.println("I am method2 od B");
+	}
+	
+	
+}
+public class AQ_Method_Overriding {
+
+	public static void main(String[] args) {
+		
+	}
+}

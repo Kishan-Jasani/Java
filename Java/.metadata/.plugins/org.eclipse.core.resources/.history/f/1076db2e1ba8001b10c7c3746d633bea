@@ -1,0 +1,10 @@
+package Java;
+//Interface is a point where two systems met and interact
+// In Java, interface is a group of related methods with empty body
+
+public class AT_Interfaces {
+
+	public static void main(String[] args) {
+		
+	}
+}

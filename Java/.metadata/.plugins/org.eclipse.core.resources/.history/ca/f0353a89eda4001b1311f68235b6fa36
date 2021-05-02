@@ -1,0 +1,6 @@
+--> Strings is a sequence of character.
+
+--> String is a Class, But we can use it as a DataType.
+	String name = "America";
+	
+--> Strings are immutable and can not be change.

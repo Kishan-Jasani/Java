@@ -1,0 +1,9 @@
+package Java;
+
+public class BO_Java_Generics {
+	
+public static void main(String[] args){
+	
+}
+}
+

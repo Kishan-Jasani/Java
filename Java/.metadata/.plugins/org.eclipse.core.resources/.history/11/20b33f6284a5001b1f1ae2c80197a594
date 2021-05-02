@@ -1,0 +1,21 @@
+package Java;
+
+public class AF_Loops {
+	public static void main(String[] args) {
+		//While Loop
+		int i=1;
+		while (i<=3) {
+			System.out.println(i);
+			i++;
+		}
+		
+		//do While loop
+		int j=10;
+		do {
+			System.out.println("j is: "+j);
+			j++;
+		}
+		while(j<=3);
+	}
+}
+

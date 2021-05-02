@@ -1,0 +1,10 @@
+package Java;
+// A collection is a group of object
+// Collection in Java is available as form of classes and Interfaces
+public class BF_Collection_Framework {
+	
+public static void main(String[] args){
+		
+	}
+}
+

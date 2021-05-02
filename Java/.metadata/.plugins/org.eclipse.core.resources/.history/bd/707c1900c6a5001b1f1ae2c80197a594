@@ -1,0 +1,13 @@
+package Java;
+
+class Mobile{
+	String name;
+	String color;
+	int price;
+}
+public class AL_OOP {	
+	public static void main(String[] args) {
+		
+	}
+}
+

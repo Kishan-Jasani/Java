@@ -1,0 +1,19 @@
+package Java;
+
+class MyThreads extends Thread{
+	@Override
+	public void run() {
+		while(true) {
+			System.out.println("My thread is running");
+			System.out.println("I am Happy");
+		}
+	}
+}
+
+public class AZ_MultiThreading_with_Thread_class {
+
+public static void main(String[] args) {
+		
+	}
+}
+

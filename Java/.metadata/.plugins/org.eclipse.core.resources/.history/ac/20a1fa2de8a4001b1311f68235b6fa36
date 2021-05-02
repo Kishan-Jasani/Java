@@ -1,0 +1,18 @@
+-----> Types of Operators:
+
+(1)Arithmetic Operators: +,-,*,/,%(Reminder),++,--
+
+(2)Assignment Operators: =,+=,-=,*=,/=
+
+(3)Comparison Operators: ==, >=,<=,>,<
+
+(4)Logical Operator: &&, ||, !
+
+(5)Bitwise Operators: &, |
+
+
+
+
+----> Precedence and Associativity:-
+		--(/,*) has High precedence than (+,-)
+		--If precedence is same, then Associate it with left to right

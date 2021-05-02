@@ -1,0 +1,18 @@
+package Java;
+
+class MyGeneric<T1>{
+	int val;
+	private T1 t1;
+	public MyGeneric(int val, T1 t1) {
+		this.val = val;
+		this.t1 = t1;
+	}
+	
+}
+public class BO_Java_Generics {
+	
+public static void main(String[] args){
+	
+}
+}
+
